@@ -2,6 +2,14 @@
 
 Simple website blacklisting using hosts file
 
+## To install as executable
+
+```bash
+go build
+
+go install
+```
+
 ## To block website
 
 ```bash
